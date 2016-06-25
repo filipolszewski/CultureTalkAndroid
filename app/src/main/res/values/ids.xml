@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lastMessageID" type="id">Last Message ID</item>
+    <item name="fragment_conversation" type="id" />
+</resources>
